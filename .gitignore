@@ -1,7 +1,5 @@
 /vendor/
 .well-known/
-uploads/
-admin/uploads/
 *.zip
 *.rar
 *.log
